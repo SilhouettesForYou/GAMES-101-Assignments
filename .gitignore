@@ -1,0 +1,23 @@
+/   src/.vs/
+/src/x64/
+/src/AccelerateRayTracing/x64/
+/src/AccelerateRayTracing/AccelerateRayTracing.vcxproj
+/src/AccelerateRayTracing/AccelerateRayTracing.vcxproj.filters
+/src/AccelerateRayTracing/AccelerateRayTracing.vcxproj.user
+/src/PathTracing/x64/
+/src/PathTracing/PathTracing.vcxproj
+/src/PathTracing/PathTracing.vcxproj.filters
+/src/PathTracing/PathTracing.vcxproj.user
+/src/PipelineAndShading/x64/
+/src/PipelineAndShading/PipelineAndShading.vcxproj
+/src/PipelineAndShading/PipelineAndShading.vcxproj.filters
+/src/PipelineAndShading/PipelineAndShading.vcxproj.user
+/src/TrianglesAndZBuffer/x64/
+/src/TrianglesAndZBuffer/TrianglesAndZBuffer.vcxproj
+/src/TrianglesAndZBuffer/TrianglesAndZBuffer.vcxproj.filters
+/src/TrianglesAndZBuffer/TrianglesAndZBuffer.vcxproj.user
+/src/WhittedStyleRayTracing/x64/
+/src/WhittedStyleRayTracing/WhittedStyleRayTracing.vcxproj
+/src/WhittedStyleRayTracing/WhittedStyleRayTracing.vcxproj.filters
+/src/WhittedStyleRayTracing/WhittedStyleRayTracing.vcxproj.user
+/src/Assignments.sln
