@@ -44,5 +44,5 @@
 
 ### 质点弹簧系统
 
-本次作业需要预先安装**OpenGL**，**Freetype**还有**RandR**这三个库。[more>>](/doc/assignment8/Assignment8.pdf)
+本次作业需要预先安装**OpenGL**，**Freetype**还有**RandR**这三个库。[more>>](/doc/Assignment8/Assignment8.pdf)
 
